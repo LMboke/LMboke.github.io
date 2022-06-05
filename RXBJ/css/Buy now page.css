@@ -1,0 +1,163 @@
+.Buy-now-page{
+	width: 900px;
+	height: 1300px;
+	border:  0px solid ;
+	margin: auto;
+}
+.page-top{
+	background-color:#fff0ec ;  
+	color:#ff734c;
+	padding-left: 30px;
+	line-height: 210%;
+	display: block;
+	height: 35px;
+}
+.SHRXX ,
+.DGRXX,
+.SDRQ,
+.HDGWQD{
+	font-size: 20px;
+	padding-left: 30px;	
+	font-weight: 700;	
+}
+.Consignee p,
+.Telephone p,
+.Region p,
+.Address p,
+.Subscriber p,
+.Subscribers_Mobile p,
+.Date p{
+	display: inline-block;
+	padding-left: 30px;	
+	padding-right: 50px;
+}
+.Telephone p,
+.Region p,
+.Address p
+{
+	padding-right: 34px;
+}
+.Subscriber p,
+.Subscribers_Mobile p
+{
+	padding-right: 24px;
+}
+.Date p
+{
+	padding-right: 40px;
+}
+
+.consignee_name,
+.Telephone_number,
+
+.Address_detailed,
+.Subscriber_name,
+.subscribers_mobile,
+.Date_date
+{
+	display: inline-block;
+	border: 1px solid #e9ecf0;
+	width: 300px;
+	height: 25px;
+	color: #737373;
+	line-height: 24px;
+	white-space:nowrap;
+	overflow:hidden;
+	vertical-align: middle;
+	/*vertical-align: middle; 
+	 * 该属性定义行内元素的基线相对于
+	 * 该元素所在行的基线的垂直对齐。*/
+}
+.Address,
+.Subscribers_Mobile,
+.Date,
+.FGX
+{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #e9ecf0;
+}
+
+.Region_address{
+	display: inline-block;
+}
+select{
+	display: inline-block;
+	width: 130px;
+	height: 30px;
+}
+.HKLY{
+	font-size: 20px;
+	padding-left: 30px;	
+	font-weight: 700;	
+}
+.greeting_card{
+	border: 1px solid #e9ecf0;
+	width: 420px;
+	height: 120px;
+	color: #737373;	
+	margin-left: 30px;	
+	padding-top: 10px;
+}
+.Shopping_List{
+	border: 1px solid #e9ecf0;
+	width: 850px;
+	height: 120px;
+	margin-left: 30PX;
+	background-color: #f3f5f7;
+	
+}
+.cake_xinxi{
+	padding: 10px 0px 0px 10px;
+	display: inline-block; 
+}
+.xinxi{
+	
+	width: 180px;
+	height: 30px;
+	vertical-align: top;
+	padding: 10px 0px 0px 10px;
+	color: #737373;	
+	display: inline-block;   	
+}
+.xinxi span{
+	color: #ff734c;
+	font-weight: 700;
+	font-size: 20px;
+	padding-right: 60px;
+}
+.psz{
+	padding-left: 30px;	
+}
+.name{
+	padding-left: 100px;
+	padding-right: 20px;	
+}
+#gmjs{
+	padding-left: 650px;
+	padding-right: 20px;	
+}
+.shuzi{
+	font-weight: 700;
+}
+.Price_payable{
+	font-weight: 700;
+	font-size: 25px;
+	color:#ff734c;
+	display: inline-block;
+	padding-right: 20px;
+}
+#yinfu{
+	padding-left: 550px;
+	display: inline-block;
+}
+input{
+	display: inline-block;
+	width: 200px;
+	height: 50px;
+	background-color: #ff734c;
+	color: white;
+	font-size: 20px;
+	border: 1px solid #ff734c;;
+}
+
+

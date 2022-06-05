@@ -1,0 +1,18 @@
+html {
+	font-family: "Microsoft Yahei";
+	font-size: 16px;
+	background-color: #eeeee;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+	color: #737373;
+}
+.clear{
+	clear: both;
+}

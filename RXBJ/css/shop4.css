@@ -1,0 +1,91 @@
+.sp4{
+	width: 875px;
+	height: 600px;
+	border: 0px solid;
+	
+	
+}
+.shop{
+	
+	padding-left: 10px;
+	padding-top: 10px;
+	display: inline-block;
+}
+a{
+	padding-bottom: 10px;
+}
+
+#price{
+	margin-top: 10px;
+	color: orange;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+#introduce{
+	font-size: 10px;
+	color: #737373;
+	width: 200px;
+	text-overflow: ellipsis;
+	white-space: nowrap; 
+	overflow: hidden; 
+}
+.sc{
+	border: 1px solid;
+	width: 200px;
+	height: 30px;
+	display: inline-block;
+	margin-top: 10px;	
+}
+
+.dingwei1{
+	height: 18px;
+	width: 17px;
+	border: 0px solid;
+	margin-left: 10px;		
+	background-image: url(../img/ico_heart_d.png);
+	position: absolute;	
+	display: inline-block;	
+}
+.dingwei2{
+	height: 17px;
+	width: 18px;
+	border: 0px solid;
+	margin-left: 10px;	
+	background-image: url(../img/ico_cart_d.png);
+	position: absolute;	
+	display: inline-block;
+}
+#wenzi1{	
+	padding-left: 30px;	
+	color: #737373;
+	display: inline-block;
+		
+    
+    
+}
+#wenzi2{	
+	padding-left: 30px;
+	display: inline-block;
+	
+}
+.sc1{
+	display: inline-block;
+	border: 0px solid #DCDCDC;
+	width: 70px;
+	height: 30px;
+	margin-top: 7px;
+	display: inline-block;
+}
+.sc2{
+	display: inline-block;
+	border: 0px solid #DCDCDC;
+	width: 120px;
+	height: 30px;
+	display: inline-block;
+}
+
+
+
+
+
+

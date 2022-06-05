@@ -1,0 +1,50 @@
+.middle{
+	border: 0px solid;
+	height: 900px;
+	width: 1000px;
+}
+.xia1,.xia2,.xia3{
+	float: left;
+	text-align:center ;
+	display: inline-block;	
+}
+
+.xia{
+	
+	margin-top: -5px;
+}
+.xia1{
+	background-color: #eee2c8;
+	height: 450px;
+	width: 333px;
+	
+}
+.xia2{
+	background-color: #ddc69d;
+	height: 450px;
+	width: 333px;
+}
+.xia3{
+	background-color: #eee2c8;
+	height: 450px;
+	width: 333px;
+}
+.xia div img{
+	margin: 5% 15% 20% 15%;
+}
+#wz{	
+	color: #737373;
+	font-size: 14px;
+	padding-bottom: 20px;
+	border-bottom: 1px  solid;	
+	padding-left: 20px;
+	display: inline-block;
+}
+#wzx{
+	font-size: 14px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+
