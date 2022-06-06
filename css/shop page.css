@@ -1,0 +1,180 @@
+.border{
+	width: 1000px;
+	height: 600px;
+	
+	display: inline-block;	
+}
+.border_left{
+	width: 450px;
+	height: 600px;
+	
+	display: inline-block;
+	vertical-align: top;
+}
+.cake{
+	padding-left: 10px;
+	padding-top: 10px;
+	display: inline-block;
+}
+.cake img{
+	border-radius: 8px;
+}
+.cake_bottom ul li{
+	
+	display: inline-block;
+	text-align: center;
+	padding: 15px 10px 10px 10px;
+}
+#li1{
+	border: 2px solid #FF734C;
+}
+.cake_bottom ul li img{
+	margin: 30px 3px;
+	border-radius: 8px ;		
+}
+.border_right{
+	width: 540px;
+	height: 600px;
+	
+	display: inline-block;		
+}
+.title{
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 15px;
+	padding-top: 10px;
+}
+
+.shoujia1{
+	width: 540px;
+	height: 40px;
+	
+	background-color: #F3F5F7;
+	border-radius: 5px 5px 0px 0px;			
+}
+.one{
+	
+	padding-left: 10px;
+	padding-right: 50px;
+	color: #737373;
+}
+.two{
+	font-size: 25px;
+	color: olive;
+	
+	padding-right: 20px;
+	font-weight: bold;
+}
+.three{
+	color: #737373;
+}
+.four{
+	color: #737373;
+	text-decoration: line-through;	
+}
+.five{
+	float: right;
+	padding: 6px 2px 0px 0px;
+}
+.five span{
+	color: #FF734C;
+}
+.jieshao{
+	
+	width: 540px;
+	height: 120px;
+	
+	background-color: #F7F9FA;
+	border-radius:  0px 0px 5px 5px;
+}
+.jieshao ul li{
+	display: inline-block;
+	width: 540px;
+	height: 40px;
+	color: #737373;
+	padding-top: 6px;
+	padding-left: 10px;
+	
+}
+.first{
+	padding-left: 55px;		
+	color: #000000;	
+}
+.ps{
+	padding: 10px 0px 5px 10px;
+	display: block;
+	color: #737373;
+}
+.weight{
+	width: 400px;
+	height: 80px;
+	
+	margin-top: 20px;
+}
+
+.zhongliang1{
+	width: 80px;
+	height: 80px;
+	border: 2px solid #FF734C;
+	display: inline-block;
+	margin-left: 30px;
+	text-align: center;	
+	line-height: 80px;	
+}
+.zhonglian2,
+.zhonglian3
+{
+	width: 80px;
+	height: 80px;
+	border: 1px solid #737373;
+	display: inline-block;
+	margin-left: 30px;
+	text-align: center;
+	line-height: 80px;		
+}
+
+.Shopping_Cart{
+	width: 500px;	
+	height: 50px;
+	
+	margin-top: 20px;
+}
+.add_to_cart{
+	width: 200px;
+	height: 50px;
+	border: 1px solid #FF734C;
+	display: inline-block;
+	margin-left: 30px;
+	text-align: center;	
+	line-height: 52px;
+	border-radius: 30px;
+	background-color: #FFF0EC;
+	color: #FF734C;
+	font-weight: bold;
+	
+}
+.Buy_now{
+	width: 200px;
+	height: 50px;
+	border: 1px solid ;
+	display: inline-block;
+	margin-left: 30px;
+	text-align: center;
+	line-height: 52px;
+	background-color: #FF734C;
+	color: #FFF0EC ;
+	border-radius: 30px ;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
